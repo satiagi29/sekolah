@@ -47,7 +47,7 @@
 			}
 		}
 		?>
-
+		<!-- wdwdw-->
 		<form action="index.php?page=edit_siswa&id=<?php echo $id; ?>" method="post">
 				<div class="item form-group">
 					<label class="col-form-label col-md-3 col-sm-3 label-align">Nis</label>
